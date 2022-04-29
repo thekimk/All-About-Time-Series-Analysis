@@ -1,4 +1,4 @@
-## Fast Campus Online All-in-one Package
+## ✔️ Fast Campus Online All-in-one Package
 
 > 파이썬을 활용한 시계열 데이터 분석 강의자료 공간입니다.
 - **강의링크:** https://fastcampus.co.kr/data_online_pyt
