@@ -1,0 +1,284 @@
+<svg id="command" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="508" viewBox="0 0 432 508">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-10, .cls-21, .cls-22, .cls-23, .cls-7, .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-1 {
+        fill: #ad02fd;
+      }
+
+      .cls-1, .cls-10, .cls-21, .cls-22, .cls-23, .cls-24, .cls-7, .cls-9 {
+        font-family: "Myriad Pro";
+      }
+
+      .cls-2, .cls-21 {
+        fill: #fd2b02;
+      }
+
+      .cls-22, .cls-3 {
+        fill: #0225fd;
+      }
+
+      .cls-23, .cls-4 {
+        fill: #075303;
+      }
+
+      .cls-5, .cls-7 {
+        fill: #0303fd;
+      }
+
+      .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6 {
+        fill: #8691f9;
+      }
+
+      .cls-8 {
+        fill: #fc7203;
+      }
+
+      .cls-9 {
+        fill: #fefefe;
+      }
+
+      .cls-10 {
+        fill: #0802fd;
+      }
+
+      .cls-11 {
+        fill: #fd4902;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-17, .cls-20 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-12, .cls-15 {
+        stroke: red;
+      }
+
+      .cls-13, .cls-17 {
+        stroke: #0315fe;
+      }
+
+      .cls-14, .cls-20 {
+        stroke: #7605b7;
+      }
+
+      .cls-16 {
+        fill: red;
+      }
+
+      .cls-18 {
+        fill: #0315fe;
+      }
+
+      .cls-19 {
+        fill: #7605b7;
+      }
+
+      .cls-24 {
+        font-size: 12px;
+        fill: #444443;
+      }
+    </style>
+  </defs>
+  <text id="df.pivot_index_fff_columns_bbb_values_baa_" data-name="df.pivot ( index = &apos;fff&apos;, columns = &apos;bbb&apos;, values = &apos;baa&apos; )" class="cls-1" x="42" y="27">df.pivot ( <tspan class="cls-2">index = &apos;fff&apos;,</tspan> <tspan class="cls-3">columns = &apos;bbb&apos;,</tspan> <tspan class="cls-4">values = &apos;baa&apos; </tspan>)</text>
+  <path class="cls-5" d="M205,42h2V53.486L213,48l-7,16-7-16,6,5.486V42Z"/>
+  <g id="col_1" data-name="col 1">
+    <rect id="_0" data-name="0" class="cls-6" x="125" y="128" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1" data-name="1" class="cls-6" x="125" y="157" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2" data-name="2" class="cls-6" x="125" y="186" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_3" data-name="3" class="cls-6" x="125" y="215" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_4" data-name="4" class="cls-6" x="125" y="244" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_5" data-name="5" class="cls-6" x="125" y="273" width="57" height="28" rx="5" ry="5"/>
+    <g id="values">
+      <text id="one" class="cls-7" x="141.002" y="148">one</text>
+      <text id="one_copy" data-name="one copy" class="cls-7" x="141.002" y="177">one</text>
+      <text id="one_copy_2" data-name="one copy 2" class="cls-7" x="141.002" y="204">one</text>
+      <text id="two" class="cls-7" x="141.002" y="234">two</text>
+      <text id="two-2" data-name="two" class="cls-7" x="141.002" y="264">two</text>
+      <text id="two-3" data-name="two" class="cls-7" x="141.002" y="292">two</text>
+    </g>
+  </g>
+  <g id="col_2" data-name="col 2">
+    <rect id="_0-2" data-name="0" class="cls-6" x="183" y="128" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-2" data-name="1" class="cls-6" x="183" y="157" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2-2" data-name="2" class="cls-6" x="183" y="186" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_3-2" data-name="3" class="cls-6" x="183" y="215" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_4-2" data-name="4" class="cls-6" x="183" y="244" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_5-2" data-name="5" class="cls-6" x="183" y="273" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-2" data-name="values">
+      <text id="P" class="cls-7" x="206.002" y="148">P</text>
+      <text id="Q" class="cls-7" x="205.002" y="178">Q</text>
+      <text id="R" class="cls-7" x="206.002" y="206">R</text>
+      <text id="P-2" data-name="P" class="cls-7" x="206.002" y="234">P</text>
+      <text id="Q-2" data-name="Q" class="cls-7" x="205.002" y="264">Q</text>
+      <text id="R-2" data-name="R" class="cls-7" x="206.002" y="292">R</text>
+    </g>
+  </g>
+  <g id="col_3" data-name="col 3">
+    <rect id="_0-3" data-name="0" class="cls-6" x="241" y="128" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-3" data-name="1" class="cls-6" x="241" y="157" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2-3" data-name="2" class="cls-6" x="241" y="186" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_3-3" data-name="3" class="cls-6" x="241" y="215" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_4-3" data-name="4" class="cls-6" x="241" y="244" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_5-3" data-name="5" class="cls-6" x="241" y="273" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-3" data-name="values">
+      <text id="_2-4" data-name="2" class="cls-7" x="261.002" y="147">2</text>
+      <text id="_3-4" data-name="3" class="cls-7" x="261.002" y="176">3</text>
+      <text id="_4-4" data-name="4" class="cls-7" x="261.002" y="205">4</text>
+      <text id="_5-4" data-name="5" class="cls-7" x="261.002" y="235">5</text>
+      <text id="_6" data-name="6" class="cls-7" x="261.002" y="264">6</text>
+      <text id="_7" data-name="7" class="cls-7" x="260.002" y="293">7</text>
+    </g>
+  </g>
+  <g id="col_4" data-name="col 4">
+    <rect id="_0-4" data-name="0" class="cls-6" x="299" y="128" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-4" data-name="1" class="cls-6" x="299" y="157" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2-5" data-name="2" class="cls-6" x="299" y="186" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_3-5" data-name="3" class="cls-6" x="299" y="215" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_4-5" data-name="4" class="cls-6" x="299" y="244" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_5-5" data-name="5" class="cls-6" x="299" y="273" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-4" data-name="values">
+      <text id="h" class="cls-7" x="319.002" y="147">h</text>
+      <text id="i" class="cls-7" x="322.002" y="176">i</text>
+      <text id="j" class="cls-7" x="322.002" y="205">j</text>
+      <text id="k" class="cls-7" x="319.002" y="235">k</text>
+      <text id="l" class="cls-7" x="322.002" y="264">l</text>
+      <text id="m" class="cls-7" x="317.002" y="293">m</text>
+    </g>
+  </g>
+  <g id="index_block_and_values" data-name="index block and values">
+    <rect id="_0-5" data-name="0" class="cls-8" x="67" y="128" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-5" data-name="1" class="cls-8" x="67" y="157" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2-6" data-name="2" class="cls-8" x="67" y="186" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2_copy" data-name="2 copy" class="cls-8" x="67" y="215" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2_copy_2" data-name="2 copy 2" class="cls-8" x="67" y="244" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_2_copy_3" data-name="2 copy 3" class="cls-8" x="67" y="273" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-5" data-name="values">
+      <text id="_0-6" data-name="0" class="cls-9" x="91" y="148">0</text>
+      <text id="_1-6" data-name="1" class="cls-9" x="91" y="175">1</text>
+      <text id="_2-7" data-name="2" class="cls-9" x="91" y="205">2</text>
+      <text id="_3-6" data-name="3" class="cls-9" x="91" y="234">3</text>
+      <text id="_4-6" data-name="4" class="cls-9" x="91" y="264">4</text>
+      <text id="_5-6" data-name="5" class="cls-9" x="91" y="292">5</text>
+    </g>
+  </g>
+  <g id="column_block_and_values" data-name="column block and values">
+    <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-8" x="125" y="99" width="57" height="28" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-8" x="183" y="99" width="57" height="28" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-8" x="241" y="99" width="57" height="28" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-8" x="299" y="99" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-6" data-name="values">
+      <text id="fff" class="cls-9" x="144" y="119">fff</text>
+      <text id="bbb" class="cls-9" x="198" y="119">bbb</text>
+      <text id="baa" class="cls-9" x="256" y="119">baa</text>
+      <text id="zzz" class="cls-9" x="314" y="117">zzz</text>
+    </g>
+  </g>
+  <text id="DataFrame_df" data-name="DataFrame       df" class="cls-10" x="64" y="91">DataFrame<tspan x="64" dy="19.2">      <tspan class="cls-11">df</tspan></tspan></text>
+  <g id="col_1-2" data-name="col 1">
+    <rect id="_0-7" data-name="0" class="cls-6" x="136" y="425" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-7" data-name="1" class="cls-6" x="136" y="454" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-7" data-name="values">
+      <text id="_2-8" data-name="2" class="cls-7" x="161.002" y="445">2</text>
+      <text id="_5-7" data-name="5" class="cls-7" x="160.002" y="474">5</text>
+    </g>
+  </g>
+  <g id="col_2-2" data-name="col 2">
+    <rect id="_0-8" data-name="0" class="cls-6" x="194" y="425" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-8" data-name="1" class="cls-6" x="194" y="454" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-8" data-name="values">
+      <text id="_3-7" data-name="3" class="cls-7" x="217.002" y="445">3</text>
+      <text id="_6-2" data-name="6" class="cls-7" x="216.002" y="475">6</text>
+    </g>
+  </g>
+  <g id="col_3-2" data-name="col 3">
+    <rect id="_0-9" data-name="0" class="cls-6" x="252" y="425" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-9" data-name="1" class="cls-6" x="252" y="454" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-9" data-name="values">
+      <text id="_4-7" data-name="4" class="cls-7" x="272.002" y="444">4</text>
+      <text id="_7-2" data-name="7" class="cls-7" x="272.002" y="473">7</text>
+    </g>
+  </g>
+  <g id="index_block_and_values-2" data-name="index block and values">
+    <rect id="_0-10" data-name="0" class="cls-8" x="78" y="425" width="57" height="28" rx="5" ry="5"/>
+    <rect id="_1-10" data-name="1" class="cls-8" x="78" y="454" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-10" data-name="values">
+      <text id="one-2" data-name="one" class="cls-9" x="92" y="445">one</text>
+      <text id="two-4" data-name="two" class="cls-9" x="92" y="472">two</text>
+    </g>
+  </g>
+  <g id="column_block_and_values-2" data-name="column block and values">
+    <rect id="Rounded_Rectangle_1-2" data-name="Rounded Rectangle 1" class="cls-8" x="136" y="396" width="57" height="28" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_1_copy-2" data-name="Rounded Rectangle 1 copy" class="cls-8" x="194" y="396" width="57" height="28" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_1_copy_2-2" data-name="Rounded Rectangle 1 copy 2" class="cls-8" x="252" y="396" width="57" height="28" rx="5" ry="5"/>
+    <g id="values-11" data-name="values">
+      <text id="P-3" data-name="P" class="cls-9" x="159" y="416">P</text>
+      <text id="Q-3" data-name="Q" class="cls-9" x="215" y="416">Q</text>
+      <text id="R-3" data-name="R" class="cls-9" x="273" y="416">R</text>
+    </g>
+  </g>
+  <g>
+    <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-12" x="134" y="95" width="39" height="211" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-13" x="192" y="95" width="39" height="211" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_2_copy_2" data-name="Rounded Rectangle 2 copy 2" class="cls-14" x="249" y="95" width="39" height="211" rx="5" ry="5"/>
+  </g>
+  <g>
+    <rect id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-12" x="87" y="416" width="38" height="76" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-13" x="131" y="401" width="185" height="19" rx="5" ry="5"/>
+    <rect id="Rounded_Rectangle_5" data-name="Rounded Rectangle 5" class="cls-14" x="142" y="429" width="192" height="50" rx="5" ry="5"/>
+  </g>
+  <g>
+    <path class="cls-15" d="M151,309s8,28-30,46-15,55-15,55"/>
+    <path class="cls-16" d="M101.119,402.474l1.761-.948,2.016,3.742,2.682-7.674L109,415,95.251,404.231l7.884,1.986Z"/>
+  </g>
+  <g>
+    <path class="cls-17" d="M210,311s7,40,63,39,41,46,41,46"/>
+    <path class="cls-18" d="M314.022,385.79l1.956,0.42-0.8,3.719,7.016-4.107L312,400l-3.492-17.112,4.717,6.622Z"/>
+  </g>
+  <g>
+    <path class="cls-19" d="M333,414h2v4.486L341,413l-7,16-7-16,6,5.486V414Z"/>
+    <path class="cls-20" d="M265,311s3,17,27,17,43,3,43,38v51"/>
+  </g>
+  <text id="index_fff_" data-name="index = &apos;fff&apos;" class="cls-21" x="17.002" y="393">index = &apos;fff&apos;</text>
+  <text id="columns_bbb_" data-name="columns = &apos;bbb&apos;" class="cls-22" x="195.002" y="372">columns = &apos;bbb&apos;</text>
+  <text id="values_baa_" data-name="values = &apos;baa&apos; " class="cls-23" x="288.002" y="325">values = &apos;baa&apos; </text>
+  <text id="w3resource.com" class="cls-24" x="337" y="495">w3resource.com</text>
+  <image id="Shape_10" data-name="Shape 10" x="326" y="488" width="9" height="9" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAMAAADXT/YiAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAh1BMVEUzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIzMzIAAADVA4mvAAAALHRSTlMACX+el52CCwqxNxEOtkocpZCVRkiEwxvCvca/wBfBgDZ9UYOvBi4fNbKchQIoRMUAAAABYktHRCy63XGrAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5AUYFAcUUvhKIgAAAFFJREFUCNcdjEUCgDAQxAYri0vRIsX1//+jJZfkFMAwLdthLkCejyD0IwKLkzTLeVGigldD0aCF0KHcoR90jZB8ErNc+Arapv04r5vw/57XxQefLwSNxQOEJQAAAABJRU5ErkJggg=="/>
+  <path id="Shape_16_copy" data-name="Shape 16 copy" class="cls-5" d="M174,326h2v11.486L182,332l-7,16-7-16,6,5.486V326Z"/>
+</svg>
